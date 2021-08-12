@@ -9,7 +9,7 @@
         }
     }
 }
-
+    
 console.log(sera)
 
 function teste() {
